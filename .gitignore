@@ -1,0 +1,7 @@
+# Idea environment details
+.idea
+# Java class files
+*.class
+
+# generated files
+out/
